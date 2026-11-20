@@ -1,0 +1,4 @@
+interface:
+  display_name: "CB Environment Update"
+  short_description: "Update Codex and Paseo, then restart and verify"
+  default_prompt: "Use $cb-env-update to update Codex and Paseo on dev-cloud-box, restart the daemon, and verify the running versions."
